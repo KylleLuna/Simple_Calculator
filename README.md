@@ -1,2 +1,2 @@
 # Simple_Calculator
-This is Project #2 for Web Design and Development
+This is Project #2 for Web Design and Development by KylleLuna.
